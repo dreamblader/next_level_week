@@ -4,9 +4,8 @@
 Criar plataforma Web/Mobile em React e Native no front-end e NodeJs no back-end para conectar professores e alunos.
 
 >Proposta dada pela Next Level Week #2
-<br/>
-**Período** : 03/08/2020 - 07/08/2020
-**Tecnologias** : React, React Native, NodeJS, Typescript
+>**Período** : 03/08/2020 - 07/08/2020
+>**Tecnologias** : React, React Native, NodeJS, Typescript
 
 
 ***
